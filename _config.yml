@@ -14,6 +14,10 @@ utility_coordinator:
   name: Eddy Yanez
   email: eddy.yanez@austintexas.gov
   phone: 5124044233
+security_coordinator:
+  name: Patrick Thornhill
+  email: Patrick.Thornhill@austintexas.gov
+  phone: 5124044116
 sales_manager:
   name: Tina Travers, CMP
   email: tina.travers@austintexas.gov
